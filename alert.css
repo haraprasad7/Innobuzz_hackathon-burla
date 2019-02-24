@@ -1,0 +1,87 @@
+header {
+	height:300px;
+	width:100%;
+	background-color:yellow;
+}
+#heading{
+	text-align:center;
+	color:black;
+	font:bold 40px Tahoma;
+	
+	
+}
+.ele1 {
+	position:absolute;	
+}
+.ele2 {
+	float:left;
+	position:absolute;
+	margin-left:1310px;
+}
+.menu {
+	margin-top:200px;
+	margin-left:580px;
+	width:350px;
+	text-align:center;
+
+}
+.menu li {
+	border-right: 2px solid black;
+	display:inline-block;
+	text-decoration:none;
+	color:black;
+	font:bold 20px Tahoma;
+	padding: 2px 2px 2px 2px;
+}
+#lastlink {
+	border:none;
+}
+.notify{
+	width:250px;
+	display:block;
+	margin-left:1250px;
+}
+.notify li{
+	text-decoration:none;
+	display:block;
+	padding: 2px 3px 2px 3px;
+	background-color:grey;
+	color:white;
+	font:bold 16px Tahoma;
+}
+#head{
+	color:white;
+	font:bold 22px Tahoma;
+	padding: 1px 3px 1px 3px;
+	background-color:black;	
+}
+table {
+	margin-left:650px;
+	margin-top:15px;
+	border-collapse: collapse;
+}
+table, tr {
+	padding: 2px 2px 2px 2px;
+	width:200px;
+}
+
+table, th, td {
+	
+	text-align:center;
+	border: 1px solid black;
+}
+table th{
+	background-color:black;
+	color:white;
+	
+}
+.data
+{
+	margin-left:500px;
+	border:4px solid grey;
+	width:600px;
+	height:200px;
+	background-color:green;
+	color:white;
+	font:bold 22px Tahoma;
+}
