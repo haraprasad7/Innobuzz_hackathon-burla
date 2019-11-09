@@ -15,7 +15,7 @@ main components
   -8 ohm speaker
   -buzzer
   -battery
-  -rellay
+  -relay
   -sound module
   -memory card
   -wires
